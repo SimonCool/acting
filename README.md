@@ -1,3 +1,3 @@
 # 人生如戏，码农演技
 
-[tuntuntutu](https://github.com/tuntuntutu)
+[tuntuntutu](https://github.com/tuntuntutu/tuntuntutu.github.io)
